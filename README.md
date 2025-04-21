@@ -27,7 +27,7 @@ Install dependancies
 Set API keys in the `.env` file for desired agent(s)
 
 ## Execute
-* `python gemini-agent.py` and/or
+* `python google-gemini-agent.py` and/or
 * `python anthropic-agent.py`
 
 
