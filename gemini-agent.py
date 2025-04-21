@@ -25,7 +25,6 @@ async def main():
     client = MCPClient.from_dict(config)
 
     # Create LLM
-    # llm = ChatGoogleGenerativeAI(api_key="AIzaSyDG4n55LHCjEJA6k3Eyptc2NuFaX2WjmNA", model="gemini-1.5-pro")
     llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro")
 
     # Create agent with the client
