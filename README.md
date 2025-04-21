@@ -1,5 +1,5 @@
 # mcp-use tutorial
-A simple barebones demo on creating and employing (mcp-use)[https://github.com/pietrozullo/mcp-use] clients to communicate with [MCP](https://modelcontextprotocol.io/introduction) servers
+A demo on creating and employing [mcp-use](https://github.com/pietrozullo/mcp-use) clients to communicate with [MCP](https://modelcontextprotocol.io/introduction) servers
 
 Samples are provided for Gemini and Anthropic based on the official mcp-use client examples - communicating with a local playwright server to query qoogle
 
